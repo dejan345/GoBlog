@@ -1,7 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "hugo-future-imperfect"
 baseurl = "/"
+languageCode = "en-us"
+title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
