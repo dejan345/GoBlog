@@ -88,13 +88,13 @@ pluralizeListTitles = false
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
-  name = "Home"
+  name = "Početna"
   url = "/"
   identifier = "fa fa-home"
   weight = 1
 
 [[menu.main]]
-  name = "About"
+  name = "O nama"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
@@ -112,13 +112,13 @@ pluralizeListTitles = false
   weight = 4
 
 [[menu.main]]
-  name = "Categories"
+  name = "Kategorije"
   url = "/categories/"
   identifier = "fa fa-sitemap"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "Kontakt"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
   weight = 6
