@@ -1,0 +1,12 @@
+header#header {
+  background-color: #212121;
+}
+
+header#header h1 {
+  color: #e05148;
+}
+
+nav li {
+  /* color: #e05148; */
+  color: aliceblue;
+}
