@@ -10,3 +10,15 @@ nav li {
   /* color: #e05148; */
   color: aliceblue;
 }
+
+#header .links ul li a {
+  color: #e05148;
+}
+
+#header .links a {
+  opacity: 1;
+}
+
+#header .links a:hover {
+  color: white !important;
+}
