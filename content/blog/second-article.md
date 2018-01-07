@@ -7,10 +7,14 @@ featured = "pic03.jpg"
 featuredalt = "Pic 3"
 featuredpath = "date"
 linktitle = ""
-title = "Second article"
+title = "Intervju"
 type = "post"
 +++
 
 # Subtitle
 
 Add few more things
+
+#212121
+
+#e05148
