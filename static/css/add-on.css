@@ -1,11 +1,19 @@
 @import url("https://fonts.googleapis.com/css?family=Abril+Fatface");
 
+body {
+  background-color: #e9e0da;
+}
+
 header#header {
   background-color: #212121;
 }
 
 header#header h1 {
   color: #ee7d75;
+}
+
+header#header a:hover {
+  color: white !important;
 }
 
 h2 a {
@@ -30,4 +38,12 @@ nav li {
 
 #header .links a:hover {
   color: white !important;
+}
+
+article.post {
+  background-color: #f4f0eb;
+}
+
+header {
+  background-color: #f4f0eb;
 }

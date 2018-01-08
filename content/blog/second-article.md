@@ -7,7 +7,7 @@ featured = "pic03.jpg"
 featuredalt = "Pic 3"
 featuredpath = "date"
 linktitle = ""
-title = "Intervju"
+title = "Main title"
 type = "post"
 +++
 
