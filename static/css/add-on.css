@@ -17,8 +17,11 @@ header#header a:hover {
   color: white !important;
 }
 
+h1 a,
 h2 a {
   font-family: "Abril Fatface", cursive;
+  /* font-family: "Playfair Display", serif;
+  font-weight: 900; */
   text-transform: none;
   font-size: 1.7em;
 }
