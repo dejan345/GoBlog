@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Abril+Fatface");
-@import url("https://fonts.googleapis.com/css?family=Merriweather");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 
 body {
   background-color: #e9e0da;
@@ -65,7 +65,7 @@ header {
 article.post p {
   font-family: "Merriweather", serif;
   font-size: 1.1em;
-  /* line-height: 1.8; */
+  line-height: 1.9;
 }
 
 article.post header .title p {
@@ -92,7 +92,7 @@ article.post header .title p {
 
 /* drop cap */
 
-p:first-child:first-letter {
+p:first-child::first-letter {
   /* color: #903; */
   /* color: #c94d44; */
   color: #ee7d75;
@@ -103,4 +103,13 @@ p:first-child:first-letter {
   padding-top: 4px;
   padding-right: 8px;
   padding-left: 3px;
+}
+
+li.menu a.fa-bars::before {
+  color: #fff;
+  opacity: 1;
+}
+
+strong {
+  font-weight: bold !important;
 }
