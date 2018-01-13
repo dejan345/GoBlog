@@ -113,3 +113,7 @@ li.menu a.fa-bars::before {
 ul.actions a.button.big.previous {
   background-color: #5c5b5b;
 }
+
+.recent {
+  padding-left: 1.25em;
+}

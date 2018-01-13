@@ -64,21 +64,21 @@ pluralizeListTitles = false
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "GO HUGO BLOG"
+  header    = ""
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "SAMO TVRDO - portal samo tvrde muzike"
 
-  about     = "Go Hugo Blog"
+  about     = "SAMO TVRDO PORTAL"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
+    src       = "/img/main/logo.png"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
-    width     = ""
+    imperfect = false
+    width     = "360"
     alt       = "GO HUGO BLOG"
 
 [params.postAmount]
