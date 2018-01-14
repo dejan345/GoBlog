@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Abril+Fatface");
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface&subset=latin-ext");
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 
 body {
@@ -13,6 +13,8 @@ header#header {
 #header h1 a {
   font-family: Raleway, Helvetica, sans-serif;
   text-transform: uppercase;
+  margin: 0 auto;
+  padding-left: 30px;
 }
 
 header#header h1 {
@@ -114,6 +116,12 @@ ul.actions a.button.big.previous {
   background-color: #5c5b5b;
 }
 
-.recent {
+.recent,
+.kategorije {
   padding-left: 1.25em;
+}
+
+.categorylist {
+  padding-left: 1.25em;
+  padding-right: 1.25em;
 }

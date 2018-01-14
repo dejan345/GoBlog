@@ -13,7 +13,7 @@ pluralizeListTitles = false
   # Sets the meta tag description
   description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "Samo tvrdo"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -66,7 +66,7 @@ pluralizeListTitles = false
 [params.intro]
   header    = ""
 
-  paragraph = "SAMO TVRDO - portal samo tvrde muzike"
+  paragraph = ""
 
   about     = "SAMO TVRDO PORTAL"
 
