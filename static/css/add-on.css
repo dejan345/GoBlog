@@ -10,6 +10,10 @@ header#header {
   box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.2);
 }
 
+header a {
+  border: none;
+}
+
 #header h1 a {
   font-family: Raleway, Helvetica, sans-serif;
   text-transform: uppercase;
@@ -113,7 +117,7 @@ li.menu a.fa-bars::before {
 }
 
 ul.actions a.button.big.previous {
-  background-color: #5c5b5b;
+  background-color: #d7cdc6;
 }
 
 .recent,
