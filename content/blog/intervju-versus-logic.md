@@ -1,5 +1,5 @@
 +++
-author = "Ivan Jankovic"
+author = "Ivan Janković"
 categories = ["Intervju"]
 date = "2018-01-11"
 description = "Kako je sve počelo"

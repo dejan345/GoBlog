@@ -1,5 +1,5 @@
 +++
-author = "Marko Markovic"
+author = "Ivan Janković"
 categories = ["Članak"]
 date = "2018-01-05"
 description = "Kako je sve počelo"

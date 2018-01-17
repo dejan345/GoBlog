@@ -142,6 +142,10 @@ ul.actions a.button.big.previous {
   padding-right: 1.25em;
 }
 
+ul.actions.pagination .next {
+  background-color: #f4f0eb;
+}
+
 /* Media queries */
 
 @media screen and (max-width: 980px) {
