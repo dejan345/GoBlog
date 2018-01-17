@@ -14,11 +14,22 @@ header a {
   border: none;
 }
 
+.title {
+  /* padding: 0 !important; */
+  /* margin: 0 auto !important; */
+  text-align: center;
+}
+
+nav.links {
+  margin-left: 0;
+}
+
 #header h1 a {
   font-family: Raleway, Helvetica, sans-serif;
   text-transform: uppercase;
-  margin: 0 auto;
-  padding-left: 30px;
+  /* margin: 0 auto !important;
+  text-align: center; */
+  /* padding-left: 30px; */
 }
 
 header#header h1 {
@@ -128,4 +139,60 @@ ul.actions a.button.big.previous {
 .categorylist {
   padding-left: 1.25em;
   padding-right: 1.25em;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 980px) {
+  body,
+  input,
+  select,
+  textarea {
+    font-size: 12pt;
+  }
+
+  h1.title {
+    color: pink !important;
+    padding: 0 0 0 8em !important;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  body,
+  input,
+  select,
+  textarea {
+    font-size: 12pt;
+  }
+  h1.title {
+    color: blue !important;
+    padding: 0 0 0 4em !important;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body,
+  input,
+  select,
+  textarea {
+    font-size: 12pt;
+  }
+
+  h1.title {
+    color: yellow !important;
+    padding: 0 0 0 4em !important;
+    margin: 0 auto;
+  }
+
+  .post p {
+    font-size: 0.9em !important;
+    line-height: 1.9;
+  }
+
+  #main img {
+    width: 90vw;
+    margin-left: -5px;
+  }
 }

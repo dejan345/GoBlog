@@ -1,17 +1,17 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "GO HUGO BLOG"
+title = "Samo tvrdo"
 baseurl = "/"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+# disqusShortname = "shortname"
 googleAnalytics = ""
 pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Samo tvrdo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Samo tvrdo"
   # Sets where "View More Posts" links
