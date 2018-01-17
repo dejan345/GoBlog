@@ -111,11 +111,11 @@ pluralizeListTitles = false
 #   identifier = "fa fa-list"
 #   weight = 4
 
-[[menu.main]]
-  name = "Kategorije"
-  url = "/categories/"
-  identifier = "fa fa-sitemap"
-  weight = 5
+# [[menu.main]]
+#   name = "Kategorije"
+#   url = "/categories/"
+#   identifier = "fa fa-sitemap"
+#   weight = 5
 
 [[menu.main]]
   name = "Kontakt"

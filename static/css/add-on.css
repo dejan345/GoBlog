@@ -49,6 +49,7 @@ h2 a {
   font-size: 1.7em;
 }
 
+.title h1 a:hover,
 .title h2 a:hover {
   color: #5c5b5b !important;
 }
@@ -68,7 +69,7 @@ nav li {
 }
 
 #header .links a:hover {
-  color: white !important;
+  color: white;
 }
 
 article.post {
@@ -152,7 +153,7 @@ ul.actions a.button.big.previous {
   }
 
   h1.title {
-    color: pink !important;
+    /* color: pink !important; */
     padding: 0 0 0 8em !important;
     margin: 0 auto;
   }
@@ -166,7 +167,7 @@ ul.actions a.button.big.previous {
     font-size: 12pt;
   }
   h1.title {
-    color: blue !important;
+    /* color: blue !important; */
     padding: 0 0 0 4em !important;
     margin: 0 auto;
   }
@@ -181,7 +182,7 @@ ul.actions a.button.big.previous {
   }
 
   h1.title {
-    color: yellow !important;
+    /* color: yellow !important; */
     padding: 0 0 0 4em !important;
     margin: 0 auto;
   }

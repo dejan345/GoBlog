@@ -1,6 +1,6 @@
 +++
 author = "Marko Markovic"
-categories = ["Hugo"]
+categories = ["Članak"]
 date = "2018-01-05"
 description = "Kako je sve počelo"
 featured = "pic03.jpg"
