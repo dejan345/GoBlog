@@ -94,6 +94,11 @@ article.post header .title p {
   text-transform: none;
 }
 
+article.post p img {
+  display: block;
+  margin: 0 auto;
+}
+
 #content p {
   margin-bottom: 2em;
 }
