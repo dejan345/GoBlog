@@ -3,7 +3,7 @@
 
 body {
   background-color: #e9e0da;
-  background-image: url("/img/1.jpg");
+  background-image: url("/img/10.jpg");
   background-repeat: repeat;
 }
 
@@ -76,10 +76,14 @@ nav li {
 
 article.post {
   background-color: #f4f0eb;
+  /* background-image: url("/img/4.jpg"); */
+  /* background-repeat: repeat; */
 }
 
 header {
   background-color: #f4f0eb;
+  /* background-image: url("/img/4.jpg"); */
+  /* background-repeat: repeat; */
 }
 
 article.post p {
