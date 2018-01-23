@@ -186,6 +186,10 @@ ul.actions.pagination .next {
     padding: 0 0 0 4em !important;
     margin: 0 auto;
   }
+  /* remove share nav */
+  li#share-nav {
+    display: none !important;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -194,6 +198,11 @@ ul.actions.pagination .next {
   select,
   textarea {
     font-size: 12pt;
+  }
+
+  /* remove share nav */
+  li#share-nav {
+    display: none !important;
   }
 
   h1.title {
