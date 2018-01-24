@@ -119,6 +119,18 @@ article.post p img {
   display: none;
 }
 
+.mini-post header h3 a:hover {
+  color: #ee7d75 !important;
+}
+
+header h3 a:hover {
+  color: #ee7d75 !important;
+}
+
+header.categorylist a:hover {
+  color: #ee7d75 !important;
+}
+
 /* drop cap */
 
 p:first-child::first-letter {
