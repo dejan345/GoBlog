@@ -169,6 +169,35 @@ ul.actions.pagination .next {
   background-color: #f4f0eb;
 }
 
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+.button:hover {
+  border: solid 1px #ee7d75;
+  color: #ee7d75 !important;
+}
+
+input[type="text"]:focus,
+input[type="text"]:active,
+input[type="text"]:hover,
+input[type="password"]:focus,
+input[type="password"]:active,
+input[type="password"]:hover,
+input[type="email"]:focus,
+input[type="email"]:active,
+input[type="email"]:hover,
+input[type="tel"]:focus,
+input[type="tel"]:active,
+input[type="tel"]:hover,
+select:focus,
+select:active,
+select:hover,
+textarea:focus,
+textarea:active,
+textarea:hover {
+  border: solid 1px #ee7d75;
+}
+
 /* Media queries */
 
 @media screen and (max-width: 980px) {
