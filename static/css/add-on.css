@@ -17,8 +17,6 @@ header a {
 }
 
 .title {
-  /* padding: 0 !important; */
-  /* margin: 0 auto !important; */
   text-align: center;
 }
 
@@ -29,9 +27,6 @@ nav.links {
 #header h1 a {
   font-family: Raleway, Helvetica, sans-serif;
   text-transform: uppercase;
-  /* margin: 0 auto !important;
-  text-align: center; */
-  /* padding-left: 30px; */
 }
 
 header#header h1 {
@@ -45,8 +40,6 @@ header#header a:hover {
 h1 a,
 h2 a {
   font-family: "Abril Fatface", cursive;
-  /* font-family: "Playfair Display", serif;
-  font-weight: 900; */
   text-transform: none;
   font-size: 1.7em;
 }
@@ -57,12 +50,11 @@ h2 a {
 }
 
 nav li {
-  /* color: #e05148; */
   color: aliceblue;
 }
 
 #header .links ul li a {
-  /* color: #e05148; */
+
   color: #ee7d75;
 }
 
