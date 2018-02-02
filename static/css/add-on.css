@@ -153,7 +153,9 @@ li.menu a.fa-bars::before {
 }
 
 ul.actions a.button.big.previous {
-  background-color: #d7cdc6;
+  /* background-color: #d7cdc6; */
+  background-image: url("/img/4.jpg");
+  background-repeat: repeat;
 }
 
 .recent,
