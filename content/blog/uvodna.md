@@ -1,5 +1,5 @@
 +++
-author = "Ivan Janković"
+author = "Uredništvo"
 categories = ["Članak"]
 date = "2018-01-05"
 description = "Kako je sve počelo"
@@ -16,4 +16,4 @@ S obzirom da smo osetili kako se u poslednjih nekoliko godina scena ponovo budi,
 Zato smo se rešeni da udruženi, neiskusni i po malo nepismeni, pokušamo da povežemo scenu u jednu celinu u kojoj će svako imati svoju koliko –toliko bitnu šansu da bude slušan ili informisan, prozvan ili pohvaljen. Mi, kao delić te celine, bićemo voljni da vam izađemo u susret, kao čitaocu ili članu nekog benda,pa iako nas pošteno ispljujete, mi ćemo to voleti. Pratićemo dešavanja na scenu. Za sad, ograničićemo se na dešavanja u Užicu i bližoj okolini a uvek ćemo u skladu sa našim životnim obavezama ( 3 posla, majka, ljubavnica...)pokušavati da budemo u toku sa dešavanjima u komšiluku.
 Trenutno ne znamo kuda će sve ovo odvesti no nije ni bitno. Mi volimo zezanje i avanturu a ponajviše jeftina zadovoljstva. Unapred vam se zahvaljujem u moje a i ima ekipe „Samo tvrdo!“ i molim za oproštaj ako nešto useremo. :D
 
-Veliki pozdrav, CarraVany!
+Veliki pozdrav!
