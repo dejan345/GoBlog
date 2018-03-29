@@ -6,8 +6,12 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 # disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-116626663-1"
 pluralizeListTitles = false
+
+# SEO
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   # Sets the meta tag description
