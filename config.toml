@@ -152,7 +152,7 @@ canonifyURLs = true
   # xing            = ""
   # slideshare      = ""
   # Social Networks
-  facebook        = "example"
+  facebook        = "https://www.facebook.com/SAMO-TVRDO-Portal-842621525939273/"
   # googleplus      = ""
   # reddit          = "example"
   # quora           = ""
@@ -162,13 +162,13 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     # wechat          = ""
     # qq              = "" # User ID Number
-  instagram       = "example"
+  instagram       = ""
   # tumblr          = ""
-  twitter         = "example"
+  # twitter         = "example"
   # skype           = ""
   # snapchat        = ""
   # pinterest       = "example"
   # telegram        = "example"
   # vine            = ""
   # Email
-  email           = "example"
+  email           = "admin@samotvrdo.com"

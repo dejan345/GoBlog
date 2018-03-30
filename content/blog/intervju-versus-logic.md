@@ -34,7 +34,7 @@ Użička death/black scena u prošlosti nije mogla da se pohvali naročitim broj
 **Srećko:** Pa i dalje nismo baš usaglašeni oko tematike pesama. Sva trojica imamo malo različite poglede na to.\
 **Basur:** Ali jedno je sigurno, da ćemo se ograditi od klasične death metal tematike, klanje, religija, satanizam.
 
-**Radac:** To sam hteo sledeće da vas pitam. Religiju nećete upliteti u pesme?\
+**Radac:** To sam hteo sledeće da vas pitam. Religiju nećete uplitati u pesme?\
 **Basur:** Ne toliko. Pesme će više govoriti o ljudskoj psihi, lošoj strani ljudske psihe, ponašanju ljudi i nešto malo ćemo i mitologiju da provlacčimo kroz tekstove. Najviše će oko toga da se zabavi Kizo, jer ipak je vażno kako pevač iznosi ono čemu peva u pesmi.
 
 ![Versus Logic](/../img/intervju-versus-logic/VersusLogic2.jpg)
