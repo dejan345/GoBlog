@@ -1,7 +1,7 @@
 +++
 author = "Uredništvo"
 categories = ["Članak"]
-date = "2018-01-05"
+date = "2018-03-28"
 description = "Kako je sve počelo"
 featuredpath = "date"
 linktitle = ""

@@ -1,7 +1,7 @@
 +++
 author = "Uredništvo"
 categories = ["Intervju"]
-date = "2018-01-11"
+date = "2018-03-29"
 description = "Kako je sve počelo"
 featuredpath = "date"
 linktitle = ""
@@ -66,6 +66,7 @@ Użička death/black scena u prošlosti nije mogla da se pohvali naročitim broj
 **Radac:** Ima li neka pesma da vas radi emotivno, ili kako god, kada je čujete? \
 **Srećko:** Hypocrisy - "Weed out the weak" i od Vital Remains - "Dechristianize". I svaka druga od Amon Amrath. \
 **Basur:** Mene sve od kvalitetnog death metala. Dobar metal uvek może da digne raspolozenje.
+
 **Radac:** Ok, koje su mane i prednosti kada si bend iz unutrašnjosti? \
 **Srećko:** Pa bendovima iz unutrašnjosti je mnogo teże da dodju do publike nego na primer , Beogradskim ili Novosadskim bendovima, što zbog żivotnog standarda,dostupnosti medija i prostora za veżbanje i naravno, više ljudi i veća mogućnost da se dopadneš nekome. \
 **Basur:** A prednosti su to što se bendovi u manjim sredinama podrżavaju,idu na svirke jedni drugih, bio to rock, punk, hc ili metal. Pozajmljuju jedni drugima opremu i nema deljenja na klanove i ekipe.
