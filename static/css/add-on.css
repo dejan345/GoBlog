@@ -205,11 +205,11 @@ textarea:hover {
 #main,
 #header.navbar,
 section#sidebar {
-  -webkit-animation: fadein 1.8s; /* Safari, Chrome and Opera > 12.1 */
-  -moz-animation: fadein 1.8s; /* Firefox < 16 */
-  -ms-animation: fadein 1.8s; /* Internet Explorer */
-  -o-animation: fadein 1.8s; /* Opera < 12.1 */
-  animation: fadein 1.8s;
+  -webkit-animation: fadein 1.2s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein 1.2s; /* Firefox < 16 */
+  -ms-animation: fadein 1.2s; /* Internet Explorer */
+  -o-animation: fadein 1.2s; /* Opera < 12.1 */
+  animation: fadein 1.2s;
 }
 
 @keyframes fadein {
