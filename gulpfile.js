@@ -26,4 +26,4 @@ gulp.task("cssmin", function() {
 });
 
 // Default task
-gulp.task("default", ["cssmin"]);
+gulp.task("default", ["htmlmin", "cssmin"]);
