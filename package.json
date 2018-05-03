@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/dejan345/GoBlog/issues"
   },
-  "homepage": "https://github.com/dejan345/GoBlog#readme"
+  "homepage": "https://github.com/dejan345/GoBlog#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-size": "^3.0.0"
+  }
 }
