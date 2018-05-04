@@ -3,7 +3,7 @@
 
 body {
   background-color: #e9e0da;
-  background-image: url("/img/10.jpg");
+  background-image: url("/img/10-optimized.jpg");
   background-repeat: repeat;
 }
 
@@ -57,7 +57,7 @@ nav li {
 }
 
 article.post header {
-  background-image: url("/img/4.jpg");
+  background-image: url("/img/4-optimized.jpg");
   background-repeat: repeat;
 }
 
@@ -67,7 +67,7 @@ article.post header {
 
 article.post {
   background-color: #f4f0eb;
-  background-image: url("/img/4.jpg");
+  background-image: url("/img/4-optimized.jpg");
   background-repeat: repeat;
 }
 
@@ -102,7 +102,7 @@ article.post p img {
 }
 
 article.mini-post header {
-  background-image: url("/img/4.jpg");
+  background-image: url("/img/4-optimized.jpg");
   background-repeat: repeat;
 }
 
@@ -154,7 +154,7 @@ li.menu a.fa-bars::before {
 
 ul.actions a.button.big.previous {
   /* background-color: #d7cdc6; */
-  background-image: url("/img/4.jpg");
+  background-image: url("/img/4-optimized.jpg");
   background-repeat: repeat;
 }
 
